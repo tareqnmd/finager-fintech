@@ -7,11 +7,3 @@
 	-ms-transform: $property;
 	transform: $property;
 }
-
-@mixin theme-change($theme, $light-bg, $dark-bg) {
-	@if $theme == 'light' {
-		background-color: $light-bg;
-	} @else {
-		background-color: $dark-bg;
-	}
-}
