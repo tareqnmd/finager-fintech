@@ -11,6 +11,9 @@ nav .nav__links a :last-child {
   margin-right: 0;
 }
 
+.careers .careers-info-show .careers-info-show__item {
+  display: flex;
+}
 html {
   scroll-behavior: smooth;
 }

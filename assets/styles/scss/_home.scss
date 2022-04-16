@@ -48,3 +48,42 @@
 		}
 	}
 }
+
+.careers {
+	.careers-info__title {
+	}
+	.careers-info__name {
+	}
+	.careers-info__text {
+	}
+	.careers-info-show {
+		.careers-info-show__item {
+			display: flex;
+			.career-info-show-item__img {
+			}
+			.careers-info-show-item-info {
+				.careers-info-show-item-info__title {
+				}
+				.careers-info-show-item-info__text {
+				}
+			}
+		}
+	}
+}
+
+.application-process {
+	.application-process__name {
+	}
+	.application-process__title {
+	}
+	.application-process-show {
+		.application-process-show-item {
+			.application-process-show-item__title {
+			}
+			.application-process-show-item__img {
+			}
+			.application-process-show-item__text {
+			}
+		}
+	}
+}
