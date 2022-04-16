@@ -1,0 +1,27 @@
+footer {
+	.footer_title {
+	}
+	.footer-info {
+		.logo {
+			width: 140px;
+		}
+		.footer-info__text {
+		}
+	}
+	.footer-contact {
+		.footer-contact__text {
+		}
+	}
+	.footer-social-link {
+		.footer-social-links {
+			margin-right: 4px;
+			:last-child {
+				margin-right: 0;
+			}
+		}
+	}
+	.footer-subscribe {
+		.footer-subscribe-input {
+		}
+	}
+}

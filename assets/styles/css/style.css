@@ -11,6 +11,15 @@ nav .nav__links a :last-child {
   margin-right: 0;
 }
 
+footer .footer-info .logo {
+  width: 140px;
+}
+footer .footer-social-link .footer-social-links {
+  margin-right: 4px;
+}
+footer .footer-social-link .footer-social-links :last-child {
+  margin-right: 0;
+}
 .careers .careers-info-show .careers-info-show__item {
   display: flex;
 }
